@@ -1,5 +1,5 @@
-Alunos:
-1: Augusto Gonçalves Freitas Cordeiro
-2: Antonio Gabriel
-3: Thiago Almeida dos Santos
-4: Lucas Cerqueira
+Alunos: 
+ Augusto Gonçalves Freitas Cordeiro,
+ Antonio Gabriel,
+ Thiago Almeida dos Santos,
+ Lucas Cerqueira
